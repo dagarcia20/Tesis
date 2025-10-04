@@ -1,3 +1,6 @@
+//Gradle de C:\Users\Daniela\App\ctrl_pool2\ctrl_pool\android\app
+
+
 plugins {
     id 'com.android.application'
     // START: FlutterFire Configuration
@@ -70,4 +73,5 @@ dependencies {
     coreLibraryDesugaring 'com.android.tools:desugar_jdk_libs:2.1.4'
   // Add the dependencies for any other desired Firebase products
   // https://firebase.google.com/docs/android/setup#available-libraries
+
 }
