@@ -1,3 +1,5 @@
+//GRADLE DE C:\Users\Daniela\App\ctrl_pool2\ctrl_pool\android
+
 plugins {
     // Google Services (para Firebase)
     id 'com.google.gms.google-services' //version '4.4.3' apply false
@@ -13,3 +15,4 @@ allprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
+
